@@ -1,4 +1,16 @@
 {
-  "heroesUrl": "api/heroes",
-  "textfile": "assets/textfile.txt"
+  "results": [
+    {
+      "code": "1111111111",
+      "type": "Banner"
+    },
+    {
+      "code": "2222222222",
+      "type": "Interstitial"
+    },
+	{
+      "code": "3333333",
+      "type": "Rewarded"
+    }
+  ]
 }
