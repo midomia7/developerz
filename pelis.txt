@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "code": "ca-app-pub-9632315934059204/4539003908",
+      "type": "Banner"
+    },
+    {
+      "code": "0",
+      "type": "Interstitial"
+    },
+	{
+      "code": "0",
+      "type": "Rewarded"
+    }
+  ]
+}
