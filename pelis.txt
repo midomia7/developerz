@@ -5,11 +5,11 @@
       "type": "Banner"
     },
     {
-      "code": "0",
+      "code": "0xx",
       "type": "Interstitial"
     },
 	{
-      "code": "0",
+      "code": "sz0",
       "type": "Rewarded"
     }
   ]
