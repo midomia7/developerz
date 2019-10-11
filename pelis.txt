@@ -5,11 +5,11 @@
       "type": "Banner"
     },
     {
-      "code": "0xx",
+      "code": "ca-app-pub-9632315934059204/5529495836",
       "type": "Interstitial"
     },
 	{
-      "code": "sz0",
+      "code": "ca-app-pub-9632315934059204/5292039720",
       "type": "Rewarded"
     }
   ]
