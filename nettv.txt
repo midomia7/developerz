@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "code": "0",
+      "type": "bbbbbbbb"
+    },
+    {
+      "code": "1",
+      "type": "iiiiiiiiiii"
+    },
+	{
+      "code": "2",
+      "type": "rrrrrrrrrr"
+    }
+  ]
+}
