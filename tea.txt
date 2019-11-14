@@ -1,15 +1,15 @@
 {
   "results": [
     {
-      "code": "xca-app-pub-9632315934059204/4539003908",
+      "code": "ca-app-pub-3714083604234483/7949289357",
       "type": "Banner"
     },
     {
-      "code": "xca-app-pub-8054815717074634/1642037934",
+      "code": "ca-app-pub-3714083604234483/9888717678",
       "type": "Interstitial"
     },
 	{
-      "code": "xca-app-pub-8054815717074634/6034926126",
+      "code": "ca-app-pub-3714083604234483/5949472661",
       "type": "Rewarded"
     }
   ]
