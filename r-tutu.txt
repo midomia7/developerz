@@ -1,15 +1,15 @@
 {
   "results": [
     {
-      "code": "xca-app-pub-8054815717074634/4224575459",
+      "code": "ca-app-pub-8054815717074634/4224575459",
       "type": "bbbbbbbb"
     },
     {
-      "code": "xxca-app-pub-8054815717074634/9041787869",
+      "code": "ca-app-pub-8054815717074634/9041787869",
       "type": "iiiiiiiiiii"
     },
 	{
-      "code": "xxca-app-pub-8054815717074634/7728706196",
+      "code": "ca-app-pub-8054815717074634/7728706196",
       "type": "rrrrrrrrrr"
     }
   ]
