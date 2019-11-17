@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "code": "ca-app-pub-8054815717074634/9818658814",
+      "type": "bbbbbbbb"
+    },
+    {
+      "code": "ca-app-pub-8054815717074634/8505577140",
+      "type": "iiiiiiiiiii"
+    },
+	{
+      "code": "ca-app-pub-8054815717074634/4078396911",
+      "type": "rrrrrrrrrr"
+    }
+  ]
+}
