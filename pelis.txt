@@ -1,15 +1,15 @@
 {
   "results": [
     {
-      "code": "ca-app-pub-6597459559972930/3403673132",
+      "code": "ca-app-pub-8054815717074634/4950727558",
       "type": "Banner"
     },
     {
-      "code": "ca-app-pub-6597459559972930/2090591467",
+      "code": "ca-app-pub-8054815717074634/5843354434",
       "type": "Interstitial"
     },
 	{
-      "code": "ca-app-pub-6597459559972930/2779172398",
+      "code": "ca-app-pub-8054815717074634/3217191093",
       "type": "Rewarded"
     }
   ]
