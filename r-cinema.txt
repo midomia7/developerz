@@ -1,16 +1,4 @@
-{
-  "results": [
-    {
-      "code": "ca-app-pub-8054815717074634/2658246299",
-      "type": "bbbbbbbb"
-    },
-    {
-      "code": "ca-app-pub-8054815717074634/9032082953",
-      "type": "iiiiiiiiiii"
-    },
-	{
-      "code": "ca-app-pub-8054815717074634/6405919614",
-      "type": "rrrrrrrrrr"
-    }
-  ]
-}
+{"results": [
+{"code": "ca-app-pub-6597459559972930/2356500560","type": "Banner"},
+{"code": "ca-app-pub-6597459559972930/1043418890","type": "Interstitial"},
+{"code": "ca-app-pub-6597459559972930/7417255559","type": "Rewarded"}]}
