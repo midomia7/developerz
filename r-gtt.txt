@@ -1,4 +1,0 @@
-{"results": [
-{"code": "x","type": "Banner"},
-{"code": "a","type": "Interstitial"},
-{"code": "z","type": "Rewarded"}]}
