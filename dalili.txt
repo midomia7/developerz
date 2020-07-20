@@ -1,6 +1,6 @@
 {"results": [
-{"code": "ca-app-pub-5435322511357512/7992225498","type": "ban"},
-{"code": "ca-app-pub-5435322511357512/1083310018","type": "inter"},
-{"code": "ca-app-pub-5435322511357512/2859426112","type": "rew"},
-{"code": "0","type": "scenario"}
+{"code": "xca-app-pub-5435322511357512/7992225498","type": "ban"},
+{"code": "xca-app-pub-5435322511357512/1083310018","type": "inter"},
+{"code": "xca-app-pub-5435322511357512/2859426112","type": "rew"},
+{"code": "1","type": "scenario"}
 ]}
