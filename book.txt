@@ -2,5 +2,5 @@
 {"code": "xxca-app-pub-5435322511357512/7992225498","type": "ban"},
 {"code": "xxca-app-pub-5435322511357512/1083310018","type": "inter"},
 {"code": "xxca-app-pub-5435322511357512/2859426112","type": "rew"},
-{"code": "1","type": "scenario"}
+{"code": "0","type": "scenario"}
 ]}
