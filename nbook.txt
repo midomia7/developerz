@@ -1,6 +1,6 @@
 {"results": [
-{"code": "ca-app-pub-j/7992225498","type": "ban"},
-{"code": "ca-app-pub-5435322511357512/cc","type": "inter"},
-{"code": "ca-app-pub-yy/2859426112","type": "rew"},
-{"code": "1","type": "scenario"}
+{"code": "ca-app-pub-5435322511357512/3629627436","type": "ban"},
+{"code": "ca-app-pub-5435322511357512/3663903568","type": "inter"},
+{"code": "ca-app-pub-5435322511357512/6646673018": "rew"},
+{"code": "0","type": "scenario"}
 ]}
