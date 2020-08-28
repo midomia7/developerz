@@ -1,5 +1,5 @@
 {"results": [
-{"code": "ca-app-pub-5435322511357512/7992225498","type": "ban"},
+{"code": "ca-app-pub-5435322511357512/3629627436","type": "ban"},
 {"code": "ca-app-pub-5435322511357512/3663903568","type": "inter"},
 {"code": "ca-app-pub-5435322511357512/6646673018","type": "inter"},
 {"code": "0","type": "scenario"}
